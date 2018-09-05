@@ -14,7 +14,7 @@ c.	Kompilasi ketiga class tersebut secara berurutan, Hasil kompilasi adalah :<br
 d.	Hapus semua file yang berektensi .class dari folder<br>
 ![alt text](https://github.com/Raditya44/Jobsheet3/blob/master/1.5.PNG)<br>
 e.	Kompilasi class TestPertamaKedua saja. Perhatikan file apa yang dihasilkan dari kompilasi tersebut :<br>
-![alt text](https://github.com/Raditya44/Jobsheet3/blob/master/1.4.PNG)<br>
+![alt text](https://github.com/Raditya44/Jobsheet3/blob/master/1.9.PNG)<br>
 f.	Jelaskan fungsi dari perintah this.getClass.getName();<br>
 ![alt text](https://github.com/Raditya44/Jobsheet3/blob/master/1.8.PNG)<br>
 Fungsi dari this.getClass.getName(); adalah untuk memanggil nama class dari lokasi suatu package. Contohnya saya membuat class Pertama pada package Latihan1. Maka, keluaran yang muncul adalah Latihan1.Pertama<br>
