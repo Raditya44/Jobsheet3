@@ -28,6 +28,7 @@ Latihan 5<br>
 ![alt text](https://github.com/Raditya44/Jobsheet3/blob/master/5.PNG)<br>
 Latihan 6<br>
 ![alt text](https://github.com/Raditya44/Jobsheet3/blob/master/6.PNG)<br>
+Tugas Praktikum<br>
 Screenshot Super Class<br>
 ![alt text](https://github.com/Raditya44/Jobsheet3/blob/master/TP1.PNG)<br>
 Screenshot Sub Class dari Super Class<br>
